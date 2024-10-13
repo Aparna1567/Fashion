@@ -8,7 +8,7 @@ const Shop = () => {
   const data = [
     {
       id: 0,
-      img: "./src/assets/img/product1.png",
+      img: "../src/assets/img/product1.png",
       name: "Nike Air",
       price: "198.00",
       discount: "20% Off",
